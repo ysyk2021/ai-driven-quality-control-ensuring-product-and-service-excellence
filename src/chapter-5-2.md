@@ -1,5 +1,3 @@
-Personalized Feedback and Improvement Recommendations using AI
-===========================================================================================================================
 
 In today's competitive market, it is essential to maintain a high level of quality in products and services. One of the critical factors that influence the quality of the product or service is the suppliers and vendors' performance. Managing supplier and vendor relationships can be challenging, especially when dealing with multiple suppliers across different geographies.
 

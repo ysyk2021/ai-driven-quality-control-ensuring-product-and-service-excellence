@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Quality Control
-===============================================================
 
 AI-driven technology has made significant advancements in recent years, providing businesses with various tools and technologies to improve quality control. However, selecting the right tools and technologies for your quality control needs can be a daunting task. This chapter provides an overview of the available tools and technologies for implementing AI-driven quality control and how to select the right ones.
 

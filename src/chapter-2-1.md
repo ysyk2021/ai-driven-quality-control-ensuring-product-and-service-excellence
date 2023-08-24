@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=============================================================================================================
 
 AI-driven technology has made significant advancements in recent years, making it possible to improve quality control in various industries. However, businesses may not be familiar with the available tools and technologies for AI-driven quality control. This chapter provides an overview of the available tools and technologies for implementing AI-driven quality control.
 

@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Quality Control
-=================================================================
 
 As businesses increasingly rely on AI-driven technology for quality control, it is crucial to ensure that ethical and unbiased practices are in place to avoid negative consequences. This chapter explores the importance of ethical and unbiased quality control practices and provides guidance on how to mitigate risks and ensure compliance.
 

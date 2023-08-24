@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Enabled Quality Control
-=========================================================================
 
 As businesses continue to embrace AI-driven technology, the field of quality control is undergoing significant transformation. This chapter delves into emerging trends in AI for quality control and assurance and considers how businesses can unlock new opportunities with AI.
 

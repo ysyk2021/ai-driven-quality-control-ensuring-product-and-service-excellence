@@ -1,5 +1,3 @@
-Chapter 5: Improving Supplier and Vendor Management with AI
-===========================================================
 
 The performance of suppliers and vendors is critical to the success of a business. However, managing supplier and vendor relationships can be challenging, especially when dealing with multiple suppliers across different geographies. Fortunately, AI-driven technology has made significant advancements in recent years, making it possible to improve supplier and vendor management significantly.
 

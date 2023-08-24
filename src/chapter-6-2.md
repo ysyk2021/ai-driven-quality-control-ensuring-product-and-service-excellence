@@ -1,5 +1,3 @@
-Automated Root Cause Analysis and Corrective Action using AI
-==================================================================================================================================
 
 Process improvement and optimization are critical components of quality control, requiring businesses to identify the root cause of problems and take corrective action. This chapter explores how AI can streamline process improvement and optimization through automated root cause analysis and corrective action.
 

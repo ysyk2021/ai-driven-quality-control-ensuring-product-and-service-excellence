@@ -1,5 +1,3 @@
-Understanding the Role of AI in Quality Control
-=====================================================================================================
 
 Quality control is an essential aspect of ensuring that products and services meet customer expectations. However, traditional quality control methods can be time-consuming and prone to errors. AI-driven technology has made significant advancements in recent years, providing businesses with new opportunities to improve quality control processes. This chapter provides an introduction to AI-driven quality control and explores the role of AI in quality control.
 

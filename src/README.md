@@ -8,3 +8,7 @@ The purpose of this book is to provide an overview of AI-driven quality control,
 By understanding the fundamentals of AI-driven quality control and its potential applications, businesses can develop effective strategies for incorporating these technologies into their quality control processes. With the right approach, AI-driven quality control can help businesses achieve product and service excellence, improve customer satisfaction, and drive business growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

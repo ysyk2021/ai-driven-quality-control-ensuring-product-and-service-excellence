@@ -1,5 +1,4 @@
-Chapter: Using AI for Automated Inspection and Testing
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the utilization of artificial intelligence (AI) for automated inspection and testing in quality control, ensuring product and service excellence. AI technologies have revolutionized the way inspection and testing processes are conducted, offering numerous advantages such as increased accuracy, efficiency, and consistency. By leveraging AI algorithms, organizations can automate various aspects of inspection and testing, leading to improved quality control outcomes. Let's delve into the key aspects of using AI for automated inspection and testing.
 
